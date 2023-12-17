@@ -26,12 +26,6 @@ python3 main.py 6
 
 This will generate a plot showing the Collatz sequence starting from 6.
 
-### Script Features
-
-- Generates the Collatz sequence for the given integer.
-- Visualizes the sequence in a plot, showing each step's value.
-- Provides information about the highest value in the sequence and the number of steps taken to reach 1.
-
 ### Output
 
 Upon running the script, it will display a plot of the Collatz sequence and print the following information in the console:
